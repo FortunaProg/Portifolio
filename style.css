@@ -11,7 +11,7 @@ ul{
     
 }
 a{
-    color: black;text-decoration: none;
+    color: wheat;text-decoration: none;
 }
 header img{
     width: 150px;
@@ -39,7 +39,8 @@ footer p{ margin-top: 2px;}
     padding: 0px
     50px;
 }
-nav a:hover { color: cornsilk;}
+nav { background-color: black;}
+nav a:hover { color: cornsilk; background-color: green;} }
 input{
     width: 100%;
 padding: 8px 0px;
@@ -86,5 +87,3 @@ input[type=text], select, textarea {
 
 .center{text-align: center;}
 
-header{
-;
